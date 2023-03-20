@@ -1,5 +1,5 @@
-Authors: RASHMI KAPU         119461754          https://github.com/Rashmikapu/ENPM-661-A-Star-Algorithm-for-a-Mobile-Robot.git
-         SAMEER ARJUN S      119385876          https://github.com/Sameer-Arjun-S/A-Star-Algorithm-for-robot-planning.git 
+Authors: RASHMI KAPU                https://github.com/Rashmikapu/ENPM-661-A-Star-Algorithm-for-a-Mobile-Robot.git
+         SAMEER ARJUN S             https://github.com/Sameer-Arjun-S/A-Star-Algorithm-for-robot-planning.git 
 
 
 Following are the libraries required for running the code
